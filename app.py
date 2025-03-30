@@ -11,6 +11,7 @@ CORS(app)  # Enable CORS for all routes
 # Dictionary of supported languages with their codes
 LANGUAGES = {
     "en": "English",
+
     "es": "Spanish",
     "zh-CN": "Chinese",
     "ar": "Arabic",
