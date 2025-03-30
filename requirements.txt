@@ -1,0 +1,6 @@
+flask==2.0.1
+flask-cors==3.0.10
+deep-translator==1.11.4
+gTTS==2.2.4
+gunicorn==23.0.0
+requests==2.32.0
